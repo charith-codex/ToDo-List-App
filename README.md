@@ -7,16 +7,14 @@
 <!-- Table of Contents -->
 <h2 align="center">Table of Contents</h2>
 <p align="center">
-  <a href="#demo">Demo</a> •
+  <a href="#demo">Screenshot</a> •
   <a href="#features">Features</a> •
   <a href="#usage">Usage</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
 </p>
 
 <!-- Screenshot -->
 <h2 align="center" id="demo">Screenshot</h2>
+
 ![Screenshot 2023-10-12 195652](https://github.com/charith-codex/ToDo-List-App/assets/131009269/52643548-66ef-4205-9136-7f2a931977d9)
 
 <!-- Features -->
