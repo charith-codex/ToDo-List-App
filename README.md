@@ -30,4 +30,17 @@
 <h2 align="center" id="usage">Usage</h2>
 <p align="center">Get started with my ToDo List app in just a few easy steps:</p>
 
+# Clone the repository
+git clone https://github.com/yourusername/todo-list-app.git
+
+# Navigate to the project directory
+cd todo-list-app
+
+# Install dependencies
+npm install
+
+# Start the app
+npm start
+
+
 
